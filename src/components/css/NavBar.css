@@ -1,0 +1,16 @@
+/* NavBar.css */
+
+.navbar-nav .nav-link {
+    margin-right: 15px; /* Ajuste o valor conforme necessário */
+    color: black; /* Define a cor do texto como preto */
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 30px;
+    left: 62%;
+    right: auto;
+    position: relative;
+  }
+  
+  .navbar-nav .nav-link:last-child {
+    margin-right: 0; /* Remove a margem do último item */
+  }
+  
